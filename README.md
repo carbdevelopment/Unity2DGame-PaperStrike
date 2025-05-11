@@ -1,2 +1,2 @@
 # Unity2DGame-PaperStrike
-erStrike is a 2D game developed in Unity that features obstacle-based gameplay with a dynamic camera system. 
+A fun 2D game where you dodge obstacles while collecting points. Features smooth player movement, dynamic camera.
